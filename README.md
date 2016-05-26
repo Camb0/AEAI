@@ -12,7 +12,7 @@ to build research labs, run `document.getElementById("item_research-labs").child
 
 
 ###Queries for structures using oldschool AE skin
-The code is mostly the same for all of the structures with the exception to the *children[#]* entry which could be thought of as an index, with the nth structure in the list (starting at 0) being # 2n+1 `document.getElementById("base_structures").children[0].children[1].children[2].children[0].`*`children[#]`*`.children[6].children[0].submit()`
+The code is mostly the same for all of the structures with the exception to the *children[#]* entry which could be thought of as an index, with the nth structure in the list (starting at 0) being # 2n+1 `document.getElementById("base_structures").children[0].children[1].children[0].children[2].children[0].`**`children[#]`**`.children[6].children[0].submit()`
 The indices of the first few structures available to a noob account are shown below.
 ![Alt text](https://github.com/Camb0/AEAI/blob/master/Oldschool.jpg)
 
