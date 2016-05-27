@@ -17,3 +17,4 @@ The indices of the first few structures available to a noob account are shown be
 ![Alt text](https://github.com/Camb0/AEAI/blob/master/Oldschool.jpg)
 
 It seems like we may have a challenge here with the fact that the indices available are dependent on the structures available in the list; we'll have to look into this more when we figure out how to use the queue, and what exactly happens with indices when certain structures become unavailable (due to lack of power or pop etc.).  We may need to analyze astros and project build orders far into the future based on potential build limitters.
+[KaHaRs Battle Calculator](KaHaRs_Battle_Calculator-Version_1-21-2011.jar) can be used to simulate base builds
